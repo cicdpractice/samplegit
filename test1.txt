@@ -1,0 +1,10 @@
+AlternateArray.java	   PalindromeString.java      TestArray.java
+AnagramString.java	   PrintArray.java	      TestFact.java
+DuplicateCharString.java   RemoveDuplicateWords.java  TestFibonacii.java
+DuplicateWordString.java   ReverseSentence.java       TestOpeation.java
+FirstNonRepeatedChar.java  SortingArray.java	      TestPalin.class
+index.html		   StringExample1.java	      TestPalin.java
+index2.html		   StringExamples.java	      TestPrime.java
+index3.html		   StringOccurance.java       TestString.java
+MiddleChar.java		   StringWordCount.java       TestStringReverse.java
+OddEvenArray.java	   test1.txt		      ThirdLargestArray.java
